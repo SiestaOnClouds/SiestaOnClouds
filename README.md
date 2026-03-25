@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Umut "Siesta On Clouds" Güngör</h1>
 
-<!--
-**SiestaOnClouds/SiestaOnClouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Computer Science student at Vizja University in Warsaw, Poland.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in software development and gameplay programming.  
+Currently focused on strengthening problem solving skills and building a solid technical foundation.
+
+## Tech Stack
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
+
+## Currently
+
+Improving problem solving skills on LeetCode  
+Building consistency on GitHub  
+Strengthening core programming fundamentals  
+
+## Contact
+
+Email: coming soon  
+LinkedIn: coming soon
