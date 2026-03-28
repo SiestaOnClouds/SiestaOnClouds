@@ -25,4 +25,4 @@ Strengthening core programming fundamentals
 ## Contact
 
 Email: coming soon  
-LinkedIn: coming soon
+LinkedIn: (https://www.linkedin.com/in/ali-umut-güngör-9861b9328/)
