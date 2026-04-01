@@ -24,5 +24,5 @@ Strengthening core programming fundamentals
 
 ## Contact
 
-Email: siestaonclouds@gmail.com
+Email: siestaonclouds@gmail.com  
 LinkedIn: (https://www.linkedin.com/in/ali-umut-güngör-9861b9328/)
