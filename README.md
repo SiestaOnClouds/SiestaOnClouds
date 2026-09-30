@@ -54,14 +54,10 @@ Alongside game development, I also build real-world software products — giving
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL" />
       <br /><b>SQL</b>
     </td>
-    <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-      <br /><b>Python</b>
-    </td>
   </tr>
 </table>
 
-<sub>Previously worked with C#, Unity, C, and JavaScript.</sub>
+<sub>Previously worked with JavaScript.</sub>
 
 ---
 
