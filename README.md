@@ -119,9 +119,18 @@ Over time, this profile will contain progressively larger gameplay-oriented C++ 
 
 ## 📊 GitHub
 
-![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiestaOnClouds&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiestaOnClouds&layout=compact&hide_border=true)
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SiestaOnClouds&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiestaOnClouds&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
